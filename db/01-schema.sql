@@ -1,0 +1,1 @@
+-- Этап 2: здесь появятся таблицы (club, player, match, transfer, ...)
